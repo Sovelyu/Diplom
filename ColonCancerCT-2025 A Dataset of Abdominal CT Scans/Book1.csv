@@ -1,0 +1,42 @@
+Patient ID,Name,Age,Sex,Scan date,Diagonosis
+53185,SIRAJUL HOQUE ,65Y,Male,24/05/2024,Cancer Positive/Malignant
+53545,NOBIR HOSSAIN ,32Y,Male,8/6/2024,Cancer Negative/Benign
+53570,SIRAJUL ISLAM ,80Y,Male,10/6/2024,Cancer Negative/Benign
+54154,NURUL ISLAM MAZUMDER ,70Y,Male,10/7/2024,Cancer Positive/Malignant
+53720,VANU,50Y,Female,22/06/2024,Cancer Negative/Benign
+53951,SOLAIMAN ,26Y,Male,1/7/2024,Cancer Negative/Benign
+53998,SHAMSUN NAHAR ,55Y,Female,4/7/2024,Cancer Negative/Benign
+53298,MILON HOSSAIN ,31Y,Male,30/05/2024,Cancer Negative/Benign
+53582,MR.HASAN ,38Y,Male,10/6/2024,Cancer Negative/Benign
+53635,NAZMUN NAHAR ,30Y,Female,15/06/2024,Cancer Negative/Benign
+53712,MOHSIN ,35Y,Male,21/06/2024,Cancer Negative/Benign
+54176,NIHAR DEY,48Y,Female,11/7/2024,Cancer Negative/Benign
+53589,BACCHU MIAH ,60Y,Male,11/6/2024,Cancer Negative/Benign
+53611,ABDUL HOQUE ,65Y,Male,13/06/2024,Cancer Positive/Malignant
+53790,JAMAL HOSSAIN , 50Y,Male,25/06/2024,Cancer Negative/Benign
+53820,JERIN ,8Y,Female,25/06/2024,Cancer Positive/Malignant
+53806,LIPI ,26Y,Female,25/06/2024,Cancer Negative/Benign
+54019,FARUK ,40Y,Male,5/7/2024,Cancer Positive/Malignant
+54081,LAILY AKTER ,27Y,Female,7/7/2024,Cancer Negative/Benign
+54112,ANOWARA BEGUM ,80Y,Female,9/7/2024,Cancer Positive/Malignant
+54158,HAZERA ,65Y,Female,10/7/2024,Cancer Negative/Benign
+54253,JESMIN AKTER ,30Y,Female,14/07/2024,Cancer Positive/Malignant
+54160,FULCHARA BEGUM ,70Y,Female,10/7/2024,Cancer Positive/Malignant
+55006,SABIHA SULTANA ,19Y,Female,4/10/2024,Cancer Negative/Benign
+54989,HARUNUR RASHID ,50Y,Male,1/10/2024,Cancer Negative/Benign
+54978,JAHANARA ,60Y,Female,1/10/2024,Cancer Negative/Benign
+54936,SHOPNA ,24Y,Female,28/09/2024,Cancer Negative/Benign
+55170,RUHUL AMIN ,65Y,Male,15/10/2024,Cancer Positive/Malignant
+55397,SUMON HAZARY ,41Y,Male,29/10/2024,Cancer Negative/Benign
+55407,DILIP ,47Y,Male,30/10/2024,Cancer Positive/Malignant
+55474,HAPPY ,18Y,Female,3/11/2024,Cancer Negative/Benign
+55572,MILON MIAH ,62Y,Male,10/11/2024,Cancer Negative/Benign
+55561,AYUB ALI ,47Y,Male,9/11/2024,Cancer Negative/Benign
+55590,ALI AZOM ,60Y,Male,11/11/2024,Cancer Negative/Benign
+55602,PEAYARA ,35Y,Female,12/11/2024,Cancer Negative/Benign
+55614,HANUFA AKTER ,35Y,Female,12/11/2024,Cancer Negative/Benign
+55624,ABU TAHER ,60Y,Male,14/11/2024,Cancer Negative/Benign
+55175,IMAM HOSSAIN ,73Y,Male,15/10/2024,Cancer Positive/Malignant
+55182,JOHURA BEGUM ,60Y,Female,16/10/2024,Cancer Negative/Benign
+55172,PARVIN AKTER ,43Y,Female,15/10/2024,Cancer Negative/Benign
+54962,AMENA BEGUM ,45Y,Female,2/10/2024,Cancer Positive/Malignant
